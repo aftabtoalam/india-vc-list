@@ -4,6 +4,8 @@ A public, growing list of investors actively writing cheques into Indian startup
 
 **Keywords:** Indian VC list, venture capital firms in India, angel investors in India, seed investors India, pre-seed VC India, Series A investors India, startup funding India, VC contact list India, fundraising database India, angel network India, family office India, D2C investors India, SaaS investors India, fintech investors India.
 
+If this saved you time, a ⭐ on the repo helps more founders find it — and costs you nothing.
+
 ## Why this exists
 
 Fundraising takes long enough without spending weeks just trying to figure out who to email. This started as a personal tracker while raising a round, and it's public now so other founders don't have to build the same list from scratch.
@@ -229,6 +231,7 @@ A few ground rules: one investor per row, check the table before adding to avoid
 - [ ] Add a "last verified" date per entry
 - [ ] Add city/region tags for India-based investors
 - [ ] Turn this into a searchable/filterable page instead of a flat table
+
 
 ## License
 
