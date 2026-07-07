@@ -1,16 +1,16 @@
 # Indian VC & Angel Investor List
 
-A public, growing list of investors actively writing cheques into Indian startups — sector focus, stage, typical cheque size, and how to reach them.
+A public, growing list of investors actively writing cheques into Indian startups with sector focus, stage, typical cheque size, and how to reach them.
 
 **Keywords:** Indian VC list, venture capital firms in India, angel investors in India, seed investors India, pre-seed VC India, Series A investors India, startup funding India, VC contact list India, fundraising database India, angel network India, family office India, D2C investors India, SaaS investors India, fintech investors India.
 
-If this saved you time, a ⭐ on the repo helps more founders find it — and costs you nothing.
+If this saved you time, a ⭐ on the repo helps more founders find it and costs you nothing.
 
 ## Why this exists
 
 Fundraising takes long enough without spending weeks just trying to figure out who to email. This started as a personal tracker while raising a round, and it's public now so other founders don't have to build the same list from scratch.
 
-Most of the entries here were submitted directly by the investors themselves, so the details should be reasonably accurate — but people change firms and funds change thesis, so double check before you pitch.
+Most of the entries here were submitted directly by the investors themselves, so the details should be reasonably accurate but people change firms and funds change thesis, so double check before you pitch.
 
 ## Who this is useful for
 
@@ -20,7 +20,7 @@ Most of the entries here were submitted directly by the investors themselves, so
 
 ## A request before you use this
 
-- Don't mass-email the whole list. Personalize your outreach — a generic blast will hurt you more than help.
+- Don't mass-email the whole list. Personalize your outreach, a generic blast will hurt you more than help.
 - If an investor listed here wants to be removed or corrected, open an issue and it'll be handled right away.
 - Being on this list isn't an endorsement of anyone by the maintainer, it's just a directory.
 
@@ -199,7 +199,7 @@ Use `Ctrl/Cmd + F` to search by sector, stage, or firm name. Where a website, Li
 
 ## Contributing
 
-This only stays useful if people keep adding to it and fixing what's wrong. All contributions happen through git — no forms, no external links.
+This only stays useful if people keep adding to it and fixing what's wrong. All contributions happen through git, no forms, no external links.
 
 **To add or update an investor:**
 
@@ -235,4 +235,4 @@ A few ground rules: one investor per row, check the table before adding to avoid
 
 ## License
 
-This data is shared as-is, for informational purposes, with no guarantee of accuracy. Fork it, reuse it, build on it. If it helps you close a round, come back and add an investor once you have — that's the whole point of keeping it open.
+This data is shared as-is, for informational purposes, with no guarantee of funding accuracy. Fork it, reuse it, build on it. If it helps you close a round, come back and add an investor once you have. That's the whole point of keeping it open.
